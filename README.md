@@ -1,6 +1,12 @@
 jvalidator
 =======================
 
+*原项目地址 https://github.com/rinh/jvalidator*
+
+*fekit工具逐渐废弃，之前fekit插件转换成npm模块方便管理*
+
+*插件直接绑定在jquery上, jquery直接在页面上引入*
+
 ### Change Log ###
 0.3.0 去除jquery依赖
 0.3.3 简化 parser， 不再使用 jison

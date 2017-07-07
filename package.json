@@ -1,0 +1,25 @@
+{
+  "name": "jvalidator",
+  "version": "1.0.0",
+  "description": "fekit_modules to node_modules 原项目：https://github.com/rinh/jvalidator",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhay1122/jvalidator.git"
+  },
+  "keywords": [
+    "jvalidator"
+  ],
+  "author": "xhay1122",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhay1122/jvalidator/issues"
+  },
+  "homepage": "https://github.com/xhay1122/jvalidator#readme"
+}
